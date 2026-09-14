@@ -95,8 +95,16 @@ poetry install
 
 复制环境变量模板：
 
+Linux / macOS：
+
 ```bash
 cp .env.example .env
+```
+
+Windows PowerShell：
+
+```powershell
+Copy-Item .env.example .env
 ```
 
 然后填写 DashScope API Key：

@@ -1,8 +1,8 @@
 [tool.poetry]
 name = "financial-agent"
-version = "0.1.0"
-description = ""
-authors = ["Your Name <you@example.com>"]
+version = "1.0.1"
+description = "A-share financial multi-agent analysis system with market, financial, valuation, synthesis, and Streamlit dashboard."
+authors = ["lzzzzzzy531-star"]
 readme = "README.md"
 packages = [
     { include = "app" },
